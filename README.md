@@ -2,7 +2,7 @@
 - 👀 I’m interested in code development
 - 🌱 I’m currently learning GitHub
 - 💞️ I’m looking to collaborate on GitHub and Figma
-- 📫 How to reach me Email ma @ matthew_nancarrow@yahoo.com
+- 📫 How to reach me Email @ matthew_nancarrow@yahoo.com
 - 😄 Pronouns: NA
 - ⚡ Fun fact: I broke the Sullivan Rule
 
