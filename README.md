@@ -36,4 +36,4 @@ clear verdict. Live on iOS, Android, and web — built and shipped solo in 14 da
 
 - 🌐 [delib.io](https://www.delib.io)
 - 📧 matthew_nancarrow@yahoo.com
-- 💼 Raising $500K pre-seed SAFE — 18 VCs in pipeline
+- 💼 Raising $500K pre-seed SAFE
