@@ -1,39 +1,34 @@
-# Matthew Nancarrow
+## Matthew Nancarrow
+**Founder & Solo Builder — I ship live products, fast.**
 
-### Founder & Solo Builder — Delib.io
+U.S. Army combat veteran turned solo founder. I take full-stack products
+from zero to live — design, build, ship, bill — by myself. Three live
+products and counting.
 
-I build and ship full-stack products from zero to live — solo.
+### 🚀 What I've Shipped
+**📱 Delib.io — Multi-Voice AI Deliberation** *(flagship · raising $500K pre-seed)*
+Five AI models (Claude, ChatGPT, Grok, Llama, Gemini) debate any question
+and return one clear verdict. Live on **iOS, Android, and Web** — built solo
+in **14 days** (7 Apple rejections, kept shipping). 3 use cases, 60%+ margins.
 
-**Delib.io** is a multi-voice AI deliberation platform where five AI models 
-(Claude, ChatGPT, Grok, Llama, Gemini) debate any question and return one 
-clear verdict. Live on iOS, Android, and web — built and shipped solo in 14 days.
+**🔨 InForge.io — White-Label SaaS for Agencies**
+Studios send branded quotes, scopes of work, and live client portals — and
+collect deposits — all under their own brand. Multi-tenant, live Stripe
+billing, transactional email, bring-your-own-key AI. Idea → billable in days.
 
----
+**✅ TaskCheck — Workforce & Field-Ops Management**
+Helps organizations manage their teams: assign tasks, verify patrols, and
+document inspections. Live on Google Play, in production for 2 years.
 
-## 🚀 What I've Built
+### 🛠 Stack
+`Node.js` · `Express` · `SQLite` · `Flutter (Dart)` · `SwiftUI` · `Stripe` · `Railway`
+**AI:** Anthropic Claude · OpenAI · xAI Grok · Groq/Llama · Google Gemini
 
-**[Delib.io](https://www.delib.io)** — Multi-Voice AI Deliberation  
-`Node.js` `Flutter` `Swift` `SQLite` `Stripe` `Railway`  
-- iOS App Store + Android Google Play + Web — all three platforms live  
-- 5 AI models running in parallel per deliberation  
-- 3 use cases shipped: Questions, Document Analysis, Cosmic (AI Horoscope)  
-- 3.2¢ cost per deliberation, 60%+ gross margins  
-- Web live day 2 · Android live day 4 · iOS live day 14 (7 Apple rejections, kept shipping)
+### 🧭 Background
+- **12 years** founding & running MCN Inc. — a nationwide foreclosure-listing services business
+- **U.S. Army** — combat infantry, 101st Airborne (502nd), 2003 Iraq invasion force
 
----
-
-## 🛠 Stack
-
-**Backend:** Node.js · Express · SQLite · REST APIs  
-**Mobile:** Flutter (Dart) · SwiftUI (iOS)  
-**AI:** Anthropic Claude · OpenAI GPT-4o · xAI Grok · Groq/Llama · Google Gemini  
-**Payments:** Stripe Checkout · Webhooks · Customer Portal  
-**Infra:** Railway · GitHub CI/CD · nixpacks
-
----
-
-## 📫 Get in Touch
-
-- 🌐 [delib.io](https://www.delib.io)
-- 📧 matthew_nancarrow@yahoo.com
-- 💼 Raising $500K pre-seed SAFE
+### 📫 Get in Touch
+🌐 [delib.io](https://delib.io) · [inforge.io](https://www.inforge.io)
+📧 matthew.nancarrow@gmail.com
+💼 Raising $500K pre-seed SAFE
